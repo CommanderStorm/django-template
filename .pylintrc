@@ -1,5 +1,5 @@
 [MASTER]
-ignore=static
+ignore=static,manage.py
 jobs=1
 load-plugins=pylint_django
 django-settings-module=template_project.settings

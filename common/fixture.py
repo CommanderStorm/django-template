@@ -2,6 +2,7 @@ import random
 from subprocess import run  # nosec: used for flushing the db
 
 import django.utils.timezone
+
 # noinspection PyPackageRequirements
 import lorem
 from django.contrib.auth import get_user_model
